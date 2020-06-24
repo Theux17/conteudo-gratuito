@@ -21,6 +21,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Cabeça de Lab | Podcast | Não | PT-BR | https://www.cabecadelab.com.br/ |
 | CaveriaTech | Youtube | Não | PT-BR | https://www.youtube.com/user/caveiratech2 |
 | Caelum | Apostilas |Não| PT-BR | https://www.caelum.com.br/apostilas |
+| Carlos Levir | Youtube | PT-BR | https://www.youtube.com/Carloslevir |
 | CIJUN Academy | Cursos | Sim | PT-BR | https://cijun.sp.gov.br/academy/|
 | Clojure for the Brave and True | Livro |Não| EN | https://www.braveclojure.com/ |
 | Code Academy | Cursos | Não | EN | https://www.codecademy.com/ |
@@ -39,6 +40,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Desenvolvedor.io | Site | Sim | PT-BR | https://desenvolvedor.io/ |
 | DevDojo| Youtube | Não | PT-BR| https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g |
 | Dev na Estrada | Podcast | Não | PT-BR | https://devnaestrada.com.br/ |
+| Dev Soutinho | Youtube | Não | PT-BR | https://www.youtube.com/Devsoutinho
 | Digital Innovation One| Cursos | Sim | PT-BR |https://web.digitalinnovation.one/browse 
 | Docker para Desenvolvedores | Livro | Não | PT-BR | https://leanpub.com/dockerparadesenvolvedores |
 | Eduardo Cuducos | Blog | Não | PT-BR | https://cuducos.me/blog/|
@@ -47,6 +49,7 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Eloquente Javascript (2ª edição)| Livro | Não | PT-BR | https://braziljs.github.io/eloquente-javascript/ |
 | Escola Front-End | Youtube/Cursos | Não | PT-BR  | https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ |
 | Estratégia Tech | Podcast | Não | PT-BR | https://anchor.fm/estrategia-tech |
+| Emerson Broga | Youtube | Não | PT-BR | https://www.youtube.com/Emersonbroga |
 | eXcript | Youtube | Não | PT-BR | https://www.youtube.com/user/excriptvideo |
 | Fábio Akita| Youtube |Não | PT-BR | https://www.youtube.com/user/AkitaOnRails |
 | FalaDev | Podcast | Não | PT-BR | https://pizzadedados.com/ |
@@ -103,7 +106,6 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 | Xamarin - Maratona live 2019 | Youtube| Não | PT-BR | https://www.youtube.com/watch?v=U4zJuHJxJjY |
 | Curso de Testes para Ruby on Rails com RSpec  | Curso | Não | PT-BR | https://www.udemy.com/course/curso-de-testes-ruby-com-rspec/ |
 | Zurubabel | Youtube| Não | PT-BR | https://www.youtube.com/user/Zurubabel |
-
 ## Quem já contribuiu
 
 * [Guilherme Vieira](https://github.com/gitlherme)
@@ -127,3 +129,5 @@ Quer contribuir com o repositório? Faça um fork e abra um PR 🥰
 * [Jamessom Queiroz](https://github.com/jamessom)
 * [Gustavo Dias A.](https://github.com/gfda)
 * [Zian25](https://github.com/zian25)
+* [Matheus Silva](https://github.com/Theux17)
+
